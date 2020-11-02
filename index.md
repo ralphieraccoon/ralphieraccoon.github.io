@@ -1,3 +1,3 @@
 ## Public Documents
 
-[Introduction](Introduction/Introdduction.pdf)
+[Introduction](Introduction/Introduction.pdf)
