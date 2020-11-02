@@ -1,3 +1,3 @@
 ## Public Documents
 
-[Introduction](Introduction/Introduction.pdf)
+[Introduction](https://ralphieraccoon.github.io/Introduction/Introduction.pdf)
