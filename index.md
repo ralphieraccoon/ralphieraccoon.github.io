@@ -1,4 +1,4 @@
 ## Public Documents
 
-[Introduction](https://ralphieraccoon.github.io/documents/Introduction.pdf)  
+[Introduction](https://ralphieraccoon.github.io/documents/Introduction.pdf)<br/>
 [Review Paper](https://ralphieraccoon.github.io/documents/paper_formatted.pdf)
