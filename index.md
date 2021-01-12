@@ -4,3 +4,8 @@
 [Review Paper](https://ralphieraccoon.github.io/documents/Review_Paper/paper_formatted.pdf)<br/>
 [Twisted String Paper](https://ralphieraccoon.github.io/documents/Twisted_String/Paper/paper.pdf)<br/>
 [Tail Paper](https://ralphieraccoon.github.io/documents/Test_Rig/Paper/paper.pdf)<br/>
+
+## Public Videos
+
+Manim Test<br/>
+{% youtube /2UW6F08hi-g 960 540 %}
