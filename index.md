@@ -7,5 +7,5 @@
 
 ## Public Videos
 
-Manim Test<br/>
-{% youtube /2UW6F08hi-g 960 540 %}
+###Manim Test<br/>
+<video src="test1.mp4" width="960" height="540" controls preload></video>
