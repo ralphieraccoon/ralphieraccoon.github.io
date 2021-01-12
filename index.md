@@ -7,5 +7,5 @@
 
 ## Public Videos
 
-###Manim Test<br/>
+Manim Test<br/>
 <video src="test1.mp4" width="960" height="540" controls preload></video>
