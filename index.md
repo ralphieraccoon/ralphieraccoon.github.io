@@ -5,6 +5,7 @@
 [Twisted String Paper](https://ralphieraccoon.github.io/documents/Twisted_String/Paper/paper.pdf)<br/>
 [Tail Paper](https://ralphieraccoon.github.io/documents/Test_Rig/Paper/paper.pdf)<br/>
 [Twisted String Short Report](https://ralphieraccoon.github.io/documents/Twisted_String/Short_Report/Short_Report.pdf)<br/>
+[Thesis](https://ralphieraccoon.github.io/documents/Theis/thesis.pdf)<br/>
 
 ## Public Videos
 
