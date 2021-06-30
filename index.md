@@ -9,8 +9,10 @@
 
 ## Public Videos
 
-###Twisted String Demo<br/>
+### Twisted String Demo
+
 <video src="demo.mp4" width="960" height="540" controls preload></video>
 
-###Manim Test<br/>
+### Manim Test
+
 <video src="test1.mp4" width="960" height="540" controls preload></video>
