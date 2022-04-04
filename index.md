@@ -10,6 +10,10 @@
 
 ## Public Videos
 
+### ICRA Presentation
+
+<video src="ICRA22_424.mp4" width="960" height="540" controls preload></video>
+
 ### Twisted String Demo
 
 <video src="demo.mp4" width="960" height="540" controls preload></video>
