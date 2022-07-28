@@ -10,7 +10,7 @@
 [Thesis](https://ralphieraccoon.github.io/documents/Thesis/thesis.pdf)<br/>
 [Thesis Diff (Tracked Changes)\*](https://ralphieraccoon.github.io/documents/Thesis/thesis-diffthesis_revision_0.pdf)<br/>
 
-\* Note: This is not updated as frequently as the non-tracked document.
+*\*Note: This is not updated as frequently as the non-tracked document.*
 
 ## Public Videos
 
