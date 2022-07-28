@@ -8,6 +8,9 @@
 [Tail Paper](https://ralphieraccoon.github.io/documents/Test_Rig/Paper/paper.pdf)<br/>
 [Twisted String Short Report](https://ralphieraccoon.github.io/documents/Twisted_String/Short_Report/Short_Report.pdf)<br/>
 [Thesis](https://ralphieraccoon.github.io/documents/Thesis/thesis.pdf)<br/>
+[Thesis Diff (Tracked Changes)\*](https://ralphieraccoon.github.io/documents/Thesis/thesis-diffthesis_revision_0.pdf)<br/>
+
+\* Note: This is not updated as frequently as the non-tracked document.
 
 ## Public Videos
 
