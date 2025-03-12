@@ -4,7 +4,7 @@
 [Review Paper](https://ralphieraccoon.github.io/documents/Review_Paper/paper_formatted.pdf)<br/>
 [Twisted String Paper (ICRA)](https://ralphieraccoon.github.io/documents/Twisted_String/Paper/ICRA/paper.pdf)<br/>
 [Twisted String Poster (ICRA)](https://ralphieraccoon.github.io/documents/Twisted_String/Paper/ICRA/Poster/Poster.pdf)<br/>
-[Twisted String Paper (IJRR)](https://ralphieraccoon.github.io/documents/Twisted_String/Paper/IJRR/paper.pdf)<br/>
+[Twisted String Paper (JMR)](https://ralphieraccoon.github.io/documents/Twisted_String/Paper/JMR/paper.pdf)<br/>
 [Tail Paper](https://ralphieraccoon.github.io/documents/Test_Rig/Paper/paper.pdf)<br/>
 [Twisted String Short Report](https://ralphieraccoon.github.io/documents/Twisted_String/Short_Report/Short_Report.pdf)<br/>
 [Thesis](https://ralphieraccoon.github.io/documents/Thesis/thesis.pdf)<br/>
